@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"pk1","c":"subDictionaryCreator","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"pk1","c":"subDictionaryCreator","l":"subDictionaryCreator()","u":"%3Cinit%3E()"}];updateSearchResults();
